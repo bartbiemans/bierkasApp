@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072869569892",
+    "project_id": "bierkas-40b9a",
+    "storage_bucket": "bierkas-40b9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072869569892:android:0fa780575faca2c069f671",
+        "android_client_info": {
+          "package_name": "com.example.projects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072869569892-v9kklb5g4k1dve7fsbe64kmjkfhc1egf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTxXgtLFMyCxdsaa7cs1BpOxPsIA_xbhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072869569892-v9kklb5g4k1dve7fsbe64kmjkfhc1egf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
